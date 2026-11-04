@@ -1,0 +1,11 @@
+sailing_id,carrier,leg,origin,destination,depart_day,arrive_day,containers_20ft,containers_40ft,units,volume_m3,utilisation,freight_nzd,products
+S139,Carrier B,feeder,Japan,Singapore,-18,-9,1,0,295,8.05,0.288,920.0,P08x90;P09x95;P10x110
+S019,Carrier A,feeder,China,Singapore,-13,-6,0,1,392,54.12,0.933,1250.0,P01x134;P02x58;P03x92;P04x108
+S118,Carrier B,feeder,India,Singapore,-11,-5,1,0,205,13.78,0.492,830.0,P05x74;P06x82;P07x49
+S099,Carrier B,feeder,China,Singapore,3,10,1,0,132,17.06,0.609,780.0,P01x39;P02x20;P03x38;P04x35
+S145,Carrier B,trunk,Singapore,Auckland,-3,10,1,0,258,23.29,0.832,1570.0,P01x43;P02x15;P03x32;P04x37;P05x18;P06x20;P07x14;P08x24;P09x24;P10x31
+S150,Carrier B,trunk,Singapore,Tauranga,-3,11,1,0,113,10.55,0.377,1780.0,P01x17;P02x7;P03x14;P04x18;P05x7;P06x11;P07x5;P08x12;P09x12;P10x10
+S154,Carrier B,trunk,Singapore,Christchurch,-3,13,1,0,150,14.13,0.505,1930.0,P01x28;P02x14;P03x17;P04x21;P05x13;P06x11;P07x6;P08x14;P09x14;P10x12
+S078,Carrier A,trunk,Singapore,Christchurch,9,25,1,0,152,14.38,0.514,1780.0,P01x30;P02x12;P03x16;P04x20;P05x12;P06x14;P07x7;P08x12;P09x10;P10x19
+S152,Carrier B,trunk,Singapore,Tauranga,11,25,1,0,106,8.89,0.318,1710.0,P01x16;P02x10;P03x13;P04x12;P05x7;P06x9;P07x6;P08x10;P09x11;P10x12
+S148,Carrier B,trunk,Singapore,Auckland,18,31,1,0,245,21.77,0.777,1600.0,P01x39;P02x20;P03x38;P04x35;P05x17;P06x17;P07x11;P08x18;P09x24;P10x26

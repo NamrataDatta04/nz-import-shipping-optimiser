@@ -1,0 +1,8 @@
+scenario,status,purchase,freight,singapore_hub,nz_warehousing,total,logistics_total,logistics_vs_base_nzd,logistics_vs_base_pct
+Base: consolidate via Singapore or ship direct,Optimal,77185.0,14150.0,2149.9,3606.28,97091.18,19906.18,0.0,0.0
+Direct shipping only,Optimal,77185.0,25810.0,0.0,4818.24,107813.24,30628.24,10722.06,53.86
+Base + new provider (Carrier D),Optimal,77185.0,13870.0,2049.69,3611.17,96715.86,19530.86,-375.32,-1.89
+Shipping costs -10%,Optimal,77185.0,12771.0,2111.36,3606.28,95673.64,18488.64,-1417.54,-7.12
+Shipping costs +10%,Optimal,77185.0,15565.0,2149.9,3606.28,98506.18,21321.18,1415.0,7.11
+Singapore storage -10%,Optimal,77185.0,14150.0,2065.12,3606.28,97006.4,19821.4,-84.78,-0.43
+Singapore storage +10%,Optimal,77185.0,14190.0,2192.28,3606.28,97173.56,19988.56,82.38,0.41
