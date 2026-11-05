@@ -8,9 +8,9 @@ containers, direct or via a Singapore hub — at minimum total cost.**
 ![HiGHS](https://img.shields.io/badge/solver-HiGHS-1baf7a)
 ![Tests](https://github.com/NamrataDatta04/nz-import-shipping-optimiser/actions/workflows/tests.yml/badge.svg)
 
-> **About this repo.** This is a portfolio replica of a group case study I worked on in
-> **STAT804 Optimisation and Operations Research** (Master of Analytics, Auckland University of
-> Technology, 2026), for a real New Zealand importer. The client's name and data are
+> **About this repo.** This is a portfolio replica of a case study I worked on in
+> Master of Analytics, Auckland University of
+> Technology, 2026, for a real New Zealand importer. The client's name and data are
 > confidential, so this version uses a **fictional company (Kōwhai Imports Ltd)** and a
 > **fully synthetic dataset**. The problem structure and modelling approach mirror the
 > original project. The original was built in SAS `proc optmodel`; this is my own
